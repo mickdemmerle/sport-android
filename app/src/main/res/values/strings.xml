@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sport</string>
+    <string name="button_login">login</string>
+    <string name="textview_email">Email</string>
+    <string name="textview_password">Password</string>
+    <string name="textview_title">Welcome %1d.</string>
+</resources>
